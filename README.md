@@ -44,7 +44,7 @@ The animals run their trained policies (`Assets/Trainings/4.0`) with no Python n
 
 ## Documentation
 
-| | |
+| Page | Contents |
 |---|---|
 | [Gameplay and Ecosystem Design](https://github.com/ozgundogann/EcoSculptor-Graduation-Project/wiki/Gameplay-and-Ecosystem-Design) | Rules, terrain, economy, controls |
 | [System Architecture](https://github.com/ozgundogann/EcoSculptor-Graduation-Project/wiki/System-Architecture) | Subsystems and how they connect |
